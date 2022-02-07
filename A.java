@@ -18,12 +18,12 @@ public class A{
         return A2;
     }
 
-    public int setA1(int entrarA1) {
-        this.entrarA1 = A1;
+    public void setA1(int A1) {
+        this.A1 = A1;
     }
 
-    public float setA2(float entrarA2){
-        this.entrarA2 = A2;
+    public void setA2(float A2){
+        this.A2 = A2;
     }
 
     public String MA1(){
@@ -34,5 +34,10 @@ public class A{
     public String MA2(){
         System.out.println("MA2");
         return "MA2";
+    }
+
+    public String MA3(){
+        System.out.println("Alteração a classe A partir do clone");
+        return "Alteração a classe A partir do clone";
     }
 }
