@@ -35,9 +35,18 @@ public class D{
         System.out.println("MD2");
         return "MD2";
     }
+<<<<<<< HEAD
 
     public String MD3(){
         System.out.println("MD3");
         return "MD3";
     }
 }
+=======
+    
+    public String MD4(){
+        System.out.println("MD4");
+        return "MD4";
+    }
+}
+>>>>>>> baec4eb781dc3b134e129d8a88fc0ea3663dbe55
