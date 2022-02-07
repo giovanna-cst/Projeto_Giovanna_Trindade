@@ -35,4 +35,9 @@ public class D{
         System.out.println("MD2");
         return "MD2";
     }
+    
+    public String MD4(){
+        System.out.println("MD4");
+        return "MD4";
+    }
 }
