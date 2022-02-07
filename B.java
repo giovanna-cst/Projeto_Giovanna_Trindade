@@ -35,4 +35,9 @@ public class B{
         System.out.println("MB2");
         return "MB2";
     }
+
+    public String MB3(){
+        System.out.println("MB3");
+        return "MB3";
+    }
 }

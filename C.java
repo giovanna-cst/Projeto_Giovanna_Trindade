@@ -35,4 +35,9 @@ public class C{
         System.out.println("MC2");
         return "MC2";
     }
+
+    public String MC3(){
+        System.out.println("MC3");
+        return "MC3";
+    }
 }
