@@ -18,12 +18,12 @@ public class B{
         return B2;
     }
 
-    public int setB1(int entrarB1) {
-        this.entrarB1 = B1;
+    public void setB1(int B1) {
+        this.B1 = B1;
     }
 
-    public float setB2(float entrarB2){
-        this.entrarB2 = B2;
+    public void setB2(float B2){
+        this.B2 = B2;
     }
 
     public String MB1(){
